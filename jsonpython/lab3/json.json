@@ -1,0 +1,31 @@
+
+[
+  {
+    "name": "Gerald Ford",
+    "dob": "07/14/1913"
+  },
+  {
+    "name": "Jimmy Carter",
+    "dob": "10/01/1924"
+  },
+  {
+    "name": "Ronald Reagan",
+    "dob": "02/06/1911"
+  },
+  {
+    "name": "George H. W. Bush",
+    "dob": "06/12/1924"
+  },
+  {
+    "name": "Bill Clinton",
+    "dob": "08/19/1946"
+  },
+  {
+    "name": "George W. Bush",
+    "dob": "07/06/1946"
+  },
+  {
+    "name": "Barack Obama",
+    "dob": "08/04/1961"
+  }
+]

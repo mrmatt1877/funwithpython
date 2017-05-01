@@ -1,0 +1,29 @@
+[
+  {
+    "city": "Beijing",
+    "country": "China",
+    "year": 2022,
+    "ceremonies": {
+      "opening": "February 4, 2022",
+      "closing": "February 20, 2022"
+    }
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "year": 2020,
+    "ceremonies": {
+      "opening": "July 24, 2020",
+      "closing": "August 9, 2020"
+    }
+  },
+  {
+    "city": "Pyeongchang",
+    "country": "South Korea",
+    "year": 2018,
+    "ceremonies": {
+      "opening": "February 9, 2018",
+      "closing": "February 25, 2018"
+    }
+  }
+]

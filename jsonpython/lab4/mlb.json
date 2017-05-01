@@ -1,0 +1,245 @@
+{
+    "Minnesota": [
+        {
+            "Twins": {
+                "founded": "1961-01-18",
+                "division": "Central",
+                "league": "AL"
+            }
+        }
+    ],
+    "Seattle": [
+        {
+            "Mariners": {
+                "founded": "1977-02-03",
+                "division": "West",
+                "league": "AL"
+            }
+        }
+    ],
+    "Philadelphia": [
+        {
+            "Phillies": {
+                "founded": "1883-03-09",
+                "division": "East",
+                "league": "NL"
+            }
+        }
+    ],
+    "Kansas City": [
+        {
+            "Royals": {
+                "founded": "1969-01-28",
+                "division": "Central",
+                "league": "AL"
+            }
+        }
+    ],
+    "Texas": [
+        {
+            "Rangers": {
+                "founded": "1972-01-14",
+                "division": "West",
+                "league": "AL"
+            }
+        }
+    ],
+    "Oakland": [
+        {
+            "Athletics": {
+                "founded": "1901-01-11",
+                "division": "West",
+                "league": "AL"
+            }
+        }
+    ],
+    "Pittsburgh": [
+        {
+            "Pirates": {
+                "founded": "1891-02-03",
+                "division": "Central",
+                "league": "NL"
+            }
+        }
+    ],
+    "Cincinnati": [
+        {
+            "Reds": {
+                "founded": "1881-01-28",
+                "division": "Central",
+                "league": "NL"
+            }
+        }
+    ],
+    "Los Angeles": [
+        {
+            "Dodgers": {
+                "founded": "1883-03-08",
+                "division": "West",
+                "league": "NL"
+            }
+        }
+    ],
+    "St. Louis": [
+        {
+            "Cardinals": {
+                "founded": "1882-03-17",
+                "division": "Central",
+                "league": "NL"
+            }
+        }
+    ],
+    "Houston": [
+        {
+            "Astros": {
+                "founded": "1962-03-22",
+                "division": "West",
+                "league": "AL"
+            }
+        }
+    ],
+    "New York": [
+        {
+            "Mets": {
+                "founded": "1962-02-05",
+                "division": "East",
+                "league": "NL"
+            }
+        }
+    ],
+    "Toronto": [
+        {
+            "Blue Jays": {
+                "founded": "1977-01-10",
+                "division": "East",
+                "league": "AL"
+            }
+        }
+    ],
+    "San Francisco": [
+        {
+            "Giants": {
+                "founded": "1958-03-16",
+                "division": "West",
+                "league": "NL"
+            }
+        }
+    ],
+    "Miami": [
+        {
+            "Marlins": {
+                "founded": "1993-02-02",
+                "division": "East",
+                "league": "NL"
+            }
+        }
+    ],
+    "Washington": [
+        {
+            "Nationals": {
+                "founded": "2005-03-20",
+                "division": "East",
+                "league": "NL"
+            }
+        }
+    ],
+    "Atlanta": [
+        {
+            "Braves": {
+                "founded": "1871-03-11",
+                "division": "East",
+                "league": "NL"
+            }
+        }
+    ],
+    "Tampa Bay": [
+        {
+            "Rays": {
+                "founded": "1998-01-05",
+                "division": "East",
+                "league": "AL"
+            }
+        }
+    ],
+    "Chicago": [
+        {
+            "Cubs": {
+                "founded": "1970-02-27",
+                "division": "Central",
+                "league": "NL"
+            }
+        }
+    ],
+    "Baltimore": [
+        {
+            "Orioles": {
+                "founded": "1902-03-18",
+                "division": "East",
+                "league": "AL"
+            }
+        }
+    ],
+    "Colorado": [
+        {
+            "Rockies": {
+                "founded": "1993-01-10",
+                "division": "West",
+                "league": "NL"
+            }
+        }
+    ],
+    "Cleveland": [
+        {
+            "Indians": {
+                "founded": "1915-01-16",
+                "division": "Central",
+                "league": "AL"
+            }
+        }
+    ],
+    "San Diego": [
+        {
+            "Padres": {
+                "founded": "1969-02-03",
+                "division": "West",
+                "league": "NL"
+            }
+        }
+    ],
+    "Detroit": [
+        {
+            "Tigers": {
+                "founded": "1894-03-21",
+                "division": "Central",
+                "league": "AL"
+            }
+        }
+    ],
+    "Milwaukee": [
+        {
+            "Brewers": {
+                "founded": "1970-01-06",
+                "division": "Central",
+                "league": "NL"
+            }
+        }
+    ],
+    "Arizona": [
+        {
+            "Diamondbacks": {
+                "founded": "1998-02-23",
+                "division": "West",
+                "league": "NL"
+            }
+        }
+    ],
+    "Boston": [
+        {
+            "Red Sox": {
+                "founded": "1901-01-16",
+                "division": "East",
+                "league": "AL"
+            }
+        }
+    ]
+}
